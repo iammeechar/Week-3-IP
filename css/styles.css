@@ -1,3 +1,22 @@
 body{
     text-align: center;
 }
+
+#intro{
+    background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/h_img.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#services{
+    background-image: url();
+}
+
+.white{
+    color: antiquewhite;
+}
+.black{
+    color: black;
+}
