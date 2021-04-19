@@ -9,6 +9,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 15%;
 }
 #services{
     background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/s_image.jpg);
@@ -17,6 +19,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 
 .white{
