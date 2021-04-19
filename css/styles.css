@@ -11,7 +11,12 @@ body{
     background-size: cover;
 }
 #services{
-    background-image: url();
+    background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/s_image.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .white{
