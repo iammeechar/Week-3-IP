@@ -7,7 +7,8 @@ This is a landing page for a website of a company that details the processes and
 * Any browser (Chrome, Firefox, Edge e.t.c)
 
 ## Known Bugs
-Floating Images in the portfolio section seem to overlap when the hover functionality is used in the css documentation. Also the embedded forms HTML markup by mail chimp could not be accessed hence i created my own form. 
+Floating Images in the portfolio section seem to overlap when the hover functionality is used in the css documentation. Also the embedded forms HTML markup by mail chimp could not be accessed hence i created my own form.
+The what we do section works as expected but it loads all sections first before the clickable bits perform the necessary hide and show functions
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
