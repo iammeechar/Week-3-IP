@@ -3,7 +3,7 @@ body{
 }
 
 #intro{
-    background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/h_img.jpg);
+    background-image: url("../images/h_img.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -14,7 +14,7 @@ body{
 }
 
 #services{
-    background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/s_image.jpg);
+    background-image: url("../images/s_image.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -33,7 +33,7 @@ body{
 }
 
 .contacts{
-    background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/c_image.jpg);
+    background-image: url("../images/c_image.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
