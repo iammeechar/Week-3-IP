@@ -32,7 +32,7 @@ body{
     color: black;
 }
 
-#contacts{
+.contacts{
     background-image: url(/home/diff/meechar/moringa-School/Delani-Studio/images/c_image.jpg);
     height: 100%;
     width: 100%;
@@ -41,6 +41,8 @@ body{
     background-size: cover;
     padding-top: 10%;
     padding-bottom: 10%;
+    color: white;
+    position: relative;
 
 }
 
@@ -65,26 +67,73 @@ body{
 #shughuli{
     padding-top: 10%;
     padding-bottom: 10%;
+    text-align: center;
 }
 
 #footer{
     padding-top: 50px;
 
 }
-
-#design{
-    display: none;
-}
-
-#development{
-    display: none;
-}
-
-#product{
-    display: none;
+.we-do{
+    display: flex;
 }
 
 #p1{
     padding-top: 5%;
     padding-bottom: 2%;
 }
+
+.para1
+.para2
+.para3{
+    display: none;
+}
+img1{
+    position: relative;
+}
+.textarea,
+textarea{
+    color: white;
+    background-color: transparent;
+    width: 800px;
+    padding: 5%;
+}
+input {
+    text-decoration: none;
+    border: 1px solid white;
+    background-color: transparent;
+    padding-left: 10%;
+    margin-right: 10%;
+    color: white;
+    column-gap: 5%;
+  }
+
+disc1{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%,-50%);
+    text-align: center;
+}
+.image1{
+    position: relative;
+    width: 100%;
+}
+
+  .project{
+   background-color: black;
+   color: white;
+   border-radius: 10px;
+   padding: 10px;
+  }
+
+  .image1:hover .image{
+    opacity: 0.3;
+  }
+  .image1:hover.disk1{
+    opacity: 1;
+   
+  }
